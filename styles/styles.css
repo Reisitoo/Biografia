@@ -265,6 +265,7 @@ nav ul ul li ul li {
 }
 #HighlightRL div{
     flex-basis: 45%;
+    height: 315px;
     border: 2px solid #C4AD5A;
 }
 
