@@ -262,7 +262,7 @@ nav ul ul li ul li {
     display: flex;
     justify-content: space-around;
 }
-#HighlightRL, div{
+#HighlightRL div{
     flex-basis: 45%;
     border: 5px solid #C4AD5A;
 }
