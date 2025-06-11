@@ -266,6 +266,8 @@ nav ul ul li ul li {
 #HighlightRL div{
     flex-basis: 45%;
     height: 315px;
+}
+#HighlightRL div iframe{
     border: 2px solid #C4AD5A;
 }
 
