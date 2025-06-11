@@ -260,12 +260,22 @@ nav ul ul li ul li {
 }
 #HighlightRL{
     display: flex;
+    justify-content: space-between;
 }
+
+
+
+
 #PastaPortada{
     width: 100%;
     height: 300px;
     display: flex;
 }
+
+
+
+
+
 body{
     background: rgb(200, 200, 200);
 }
